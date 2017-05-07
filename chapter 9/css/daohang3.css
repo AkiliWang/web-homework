@@ -1,0 +1,38 @@
+li{
+	list-style:none;
+	text-align: left;
+}
+.menu{
+	height:75px;
+	text-align:center;
+	color:#b9f605;
+	font-size:14px;
+	font-weight:bold;
+	}
+ul{
+	width:1005px;
+	margin:auto;
+	height:75px;
+	line-height:75px;
+	vertical-align:middle;
+	background:url(../image/bg.gif) top no-repeat;
+	width:1005px;	
+	}
+.first{
+	float:left;
+	margin:0px 0px -5px;
+}
+.two{
+	float:left;
+	margin:0px 15px;	
+	}
+a{
+	color:#fff;	
+	text-decoration:none;
+	}
+a:hover{
+	color:#b9f605;
+	}
+.specil {
+	color:#fdb306;
+	}

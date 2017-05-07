@@ -1,0 +1,29 @@
+body{
+	font:normal normal 12px 'Arial';
+	color:grey;
+	line-height: 2em;
+
+}
+a{
+	color:#727272;
+	text-decoration: none;	
+	text-align:center;
+}
+a:hover{
+	text-decoration: underline;
+}
+.pu{
+	color:#b9f605;
+	font-weight:bold;
+	font-size: 14px;
+}
+.chao{
+	color:white;
+}
+a:hover{
+	color:#b9f605;
+	text-decoration: none;
+}
+.last{
+	color:#fdb306;
+}

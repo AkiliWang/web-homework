@@ -1,0 +1,190 @@
+body{
+	background-color:#FFFFC4;
+	margin:0px;
+	padding:0px;
+	font-family:"微软雅黑";
+	text-decoration:none;
+	list-style:none;
+	background-repeat:no-repeat;
+}
+.logo{
+	margin-left:200px;
+	margin-top:80px;
+	margin-bottom:0px;
+}
+.meihua{
+	margin-top:-500px;
+}
+.denglubg{
+	margin-top:-180px;
+	margin-left:870px;
+	width:234px;
+	height:180px;
+}
+.dengluzc{
+	margin-left:900px;
+	margin-top:-135px;
+	color:red;
+}
+.dengluzc span{
+	margin-left:-30px;
+}
+.banner ul{
+	margin-top:20px;
+	margin-left:200px;
+	height:28px;
+	width:860px;
+	line-height:28px;
+	background-color:#FF3030;
+}
+.banner ul li{
+	float:left;
+	list-style:none;
+	margin-right:18px;
+	font-size:16px;
+}
+.banner ul li a{
+	text-decoration:none;
+	color:#ffffff;
+	border-right:1px #696969 solid;
+	padding-right:18px;
+}
+.text{
+	width:150px;
+	background-color:#FFEFD5;
+}
+.button{
+	color:#ffffff;
+	background-color:#EE0000;
+	margin-left:-9px;
+}
+.mian{
+	margin-left:200px;
+}
+.mian p a{
+	color:#333333;
+	font-size:12px;
+	text-decoration:none;
+}
+.mian p a:hover{
+	text-decoration:underline;
+}
+.moshui{
+	margin-left:470px;
+	margin-top:-80px;
+}
+.neirong{
+	background-image:url(../images/bianlist.png);
+	background-repeat:no-repeat;
+	width:800px;
+	height:1134px;
+	margin-left:400px;
+	margin-top:-260px;
+}
+.neirong ul{
+	padding-top:230px;
+	padding-left:180px;
+}
+.neirong ul li{
+	list-style:none;
+}
+.neirong ul li a{
+	text-decoration:none;
+	color:#3B3B3B;
+	font-size:bold;
+	line-height:30px;
+	font-size:18px;
+}
+.neirong ul li a:hover{
+	text-decoration:underline;
+}
+.neirong ul li a span{
+	float:right;
+	margin-right:130px;
+}
+.neirong ul ul{
+	margin-top:-200px;
+	margin-left:-20px;
+}
+.neirong ul ul li{
+	float:left;
+}
+.neirong ul ul li a{
+	color:#4169E1;
+	margin-left:20px;
+}
+.neirong ul ul li a:hover{
+	text-decoration:underline;
+}
+.zuo{
+	width:250px;
+	height:900px;
+	border:5px #FF3030 double;
+	margin-left:-206px;
+	margin-top:-926px;
+}
+.zuo ul{
+	margin-left:-178px;
+	margin-top:-200px;
+	width:250px;
+}
+.zuo ul li{
+	list-style:none;
+	line-height:25px;
+}
+.zuo ul li a{
+	text-decoration:none;
+	color:#BA55D3;
+}
+.zuo ul li a:hover{
+	text-decoration:underline;
+	color:#63B8FF;
+}
+.sclp ul{
+	margin-top:-230px;
+}
+.sclp ul li{
+	text-align:center;
+}
+.mrys ul{
+	margin-top:-235px;
+}
+.mrys ul li{
+	text-align:center;
+}
+.bottom{
+	margin-top:0px;
+	margin-left:400px;
+}
+.bottom ul{
+	line-height:28px;
+}
+.bottom ul li{
+	float:left;
+	list-style:none;
+	margin-right:18px;
+}
+.bottom ul li a{
+	text-decoration:none;
+	color:#FF3030;
+	border-right:1px #FF3030 solid;
+	padding-right:18px;
+	font-weight:bold;
+}
+.bottom ul a{
+	text-decoration:none;
+	color:#FF3030;
+	padding-right:18px;
+	font-weight:bold;
+}
+.bottom img{
+	margin-left:-160px;
+}
+.bottom p{
+	color:#FF3030;
+	padding-right:18px;
+	font-size:12px;
+	line-height:15px;
+	margin-top:-10px;
+	margin-left:96px;
+}
